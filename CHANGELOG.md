@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.10.3] - 2023-06-16
+### Changed
+- Use Python 3.11.4
+- Update dependencies
+
+## [0.10.2] - 2022-08-28
+### Changed
+- Use Python 3.10.6
+- Update dependencies
+
 ## [0.10.1] - 2022-02-18
 ### Changed
 - Use Python 3.9.10
@@ -176,7 +186,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release of `mailer`
 - Sendgrid mailing provider support
 
-[Unreleased]: https://github.com/rclement/mailer/compare/0.10.1...HEAD
+[Unreleased]: https://github.com/rclement/mailer/compare/0.10.3...HEAD
+[0.10.3]: https://github.com/rclement/mailer/compare/0.10.2...0.10.3
+[0.10.2]: https://github.com/rclement/mailer/compare/0.10.1...0.10.2
 [0.10.1]: https://github.com/rclement/mailer/compare/0.10.0...0.10.1
 [0.10.0]: https://github.com/rclement/mailer/compare/0.9.1...0.10.0
 [0.9.1]: https://github.com/rclement/mailer/compare/0.9.0...0.9.1
